@@ -12,7 +12,7 @@ The **Privacy Policy** defines how data is collected, stored, and protected with
 - **Whakapapa (Data Ancestry):** All data has whakapapa and must be protected accordingly.  
 
 ## 📖 Read the Policy  
-The full **Privacy Policy** can be accessed [here](TMRR-privacy-policy).  
+The full **Privacy Policy** can be accessed [here](TMRR-PRIVACY-POLICY).  
 
 ## ⚖️ User Rights  
 Under **Te Mana o Raraunga-Rangatira**, users have the right to:  
